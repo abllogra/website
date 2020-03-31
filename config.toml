@@ -1,0 +1,55 @@
+baseURL = "http://allopis.es/"
+languageCode = "en-us"
+title = "Abel Llopis"
+theme = "pulp"
+
+[params]
+    author = "Abel Llopis"
+    avatar = "avatar.jpg"
+    # avatarDescription = "My avatar description"
+    favicon = "favicon.ico"
+    description = """
+        iOS Developer
+    """
+    publicationYear = "2020"
+    # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
+    # singlePageDateFormat = "January 2, 2006"
+    # custom_css = ["/css/custom.css"]
+    # custom_js = ["/js/custom.js"]
+
+[[menu.main]]
+    identifier = "email"
+    # name = "Email"
+    pre = "<i class='fa fa-envelope fa-lg'></i>"
+    url = "mailto:abel.llopis@gmail.com"
+    weight = 40
+
+[[menu.main]]
+    identifier = "twitter"
+    # name = "Twitter"
+    pre = "<i class='fab fa-twitter fa-lg'></i>"
+    url = "https://twitter.com/abel_llopis"
+    weight = 20
+
+[[menu.main]]
+    identifier = "github"
+    # name = "GitHub"
+    pre = "<i class='fab fa-github fa-lg'></i>"
+    url = "https://github.com/abllogra"
+    weight = 30
+
+[[menu.main]]
+    identifier = "linkedin"
+    # name = "Linkedin"
+    pre = "<i class='fab fa-linkedin fa-lg'></i>"
+    url = "https://github.com/abllogra"
+    weight = 50
+
+[[menu.main]]
+    identifier = "keybase"
+    # name = "Keybase"
+    pre = "<i class='fab fa-keybase fa-lg'></i>"
+    url = "https://keybase.io/abel_llopis"
+    weight = 60
+
+
