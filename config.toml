@@ -1,7 +1,8 @@
 baseURL = "http://allopis.es/"
-languageCode = "en-us"
+languageCode = "es-es"
 title = "Abel Llopis"
 theme = "pulp"
+googleAnalytics = "UA-53502012-1"
 
 [params]
     author = "Abel Llopis"
@@ -42,7 +43,7 @@ theme = "pulp"
     identifier = "linkedin"
     # name = "Linkedin"
     pre = "<i class='fab fa-linkedin fa-lg'></i>"
-    url = "https://github.com/abllogra"
+    url = "https://www.linkedin.com/in/abelllopis"
     weight = 50
 
 [[menu.main]]
