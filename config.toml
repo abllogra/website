@@ -22,7 +22,7 @@ googleAnalytics = "UA-53502012-1"
     identifier = "email"
     # name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
-    url = "mailto:abel.llopis@gmail.com"
+    url = "mailto:hola@allopis.es"
     weight = 40
 
 [[menu.main]]
